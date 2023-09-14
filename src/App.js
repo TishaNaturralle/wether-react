@@ -7,7 +7,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <span>
-          ["Lisbon" "Paris"]
           <li>Sydney</li>
           <li>San Francisco</li>
         </span>
